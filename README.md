@@ -1,5 +1,3 @@
----
-
 # Shiny Weather App
 
 A minimal and interactive weather forecast dashboard built with **R Shiny**.
@@ -31,5 +29,3 @@ A minimal and interactive weather forecast dashboard built with **R Shiny**.
 <img src="sample/sample1.png" width="400">
 <img src="sample/sample2.png" width="400">
 <img src="sample/sample3.png" width="400">
-
----
